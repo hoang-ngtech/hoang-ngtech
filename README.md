@@ -14,6 +14,3 @@ Software Engineer with **10+ years** of experience designing, building, and scal
 • **Agile & Collaboration**: Scrum, Kanban, TDD, BDD, Pair Programming, Jira, Confluence<br />
 • **AI/ML & Data Science**: Machine Learning Pipelines, NLP, Computer Vision, Predictive Analytics, Recommendation Systems, LLMs, Model Training, Evaluation, Deployment, Data Preprocessing, Feature Engineering, Automated Validation, TensorFlow, PyTorch, scikit-learn, XGBoost, MLflow, Hugging Face, LangChain, OpenAI <br />
 • **Other Skills**: API Design & Integration, Serverless Architectures, Scalability & Reliability Engineering, Message Queues (RabbitMQ, NATS), Graph Databases (Neo4j), Code Reviews & Mentorship, Technical Documentation<br />
-
-### Conclusion
-Passionate about leveraging technology to solve complex problems and enhance user experiences. Looking forward to contributing to innovative projects and collaborating with talented teams.
